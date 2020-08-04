@@ -1,4 +1,4 @@
-<img src="https://github.com/imedic/imedic/raw/master/animation.gif" alt="Ivan Medic motion gif" />
+<img src="https://github.com/imedic/imedic/raw/master/animation.gif" alt="Ivan Medic motion gif" width="500" />
 
 ### Hi there 👋
 
