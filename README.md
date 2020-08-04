@@ -1,4 +1,4 @@
-![](animation.gif)
+<img src="animation.gif" alt="Ivan Medic motion gif" />
 
 ### Hi there 👋
 
